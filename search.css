@@ -1,0 +1,33 @@
+html, body{
+	height: 100%;
+	font-family: 'Playfair Display', serif;
+	letter-spacing: 1px;
+}
+
+.container {
+	margin-top: 70px;
+	margin-bottom: 50px;
+	max-width: 1300px;
+}
+
+.top {
+	font-size: 20px;
+}
+
+.option {
+	font-size: 15px;
+}
+
+.search {
+	font-size: 20px;
+	padding-left: 0;
+}
+
+.product {
+	text-decoration: none;
+	color: black;
+}
+
+.product:hover {
+	text-decoration: none;
+}
