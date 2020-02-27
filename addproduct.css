@@ -1,0 +1,19 @@
+html, body{
+	height: 100%;
+	font-family: 'Playfair Display', serif;
+	letter-spacing: 1px;
+}
+
+.container {
+	margin-top: 70px;
+	margin-bottom: 50px;
+	max-width: 1300px;
+}
+
+#productdescription {
+    height: 100px;
+}
+
+.images {
+    margin-bottom: 10px;
+}
